@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_todolist"
+            android:icon="@drawable/icon_todo_list"
+            android:title="@string/title_todolist"/>
+
+    <item
+            android:id="@+id/navigation_do_tasks"
+            android:icon="@drawable/icon_do_tasks"
+            android:title="@string/title_do_tasks"/>
+
+    <item
+            android:id="@+id/navigation_my_info"
+            android:icon="@drawable/icon_my_info"
+            android:title="@string/title_my_info"/>
+
+</menu>

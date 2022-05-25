@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShallDo</string>
+    <string name="title_activity_todo_list">ShallDo</string>
+    <string name="title_todolist">任务管理</string>
+    <string name="title_do_tasks">待办事项</string>
+    <string name="title_my_info">我的</string>
+</resources>
